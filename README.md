@@ -1,6 +1,8 @@
+<p>
 <img src="https://github.com/amansingh-3/amansingh-3/blob/main/focus-animation.gif"  width="500" height="auto"  align="right"/>
-# 💫 About Me: <br>
-🔭 I’m currently working on a full stack web app for event booking <br>👯 I’m looking to collaborate on Frontend Developments<br>🌱 I’m currently learning Next JS<br>💬 Ask me about cycling stuff<br>
+</p>
+# 💫 About Me:<br>
+🔭 I’m currently working on a full stack web app for event booking <br />👯 I’m looking to collaborate on Frontend Developments<br />🌱 I’m currently learning Next JS<br />💬 Ask me about cycling stuff<br clear="right">
 
 
 ## 🌐 Socials:
